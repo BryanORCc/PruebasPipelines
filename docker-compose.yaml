@@ -10,4 +10,4 @@ services:
    entrypoint: /pipeline/entrypoint.sh
    command: /pipeline/do.sh
    environment:
-     - PROJECT=[YOUR PROJECT ID]
+     - PROJECT=pruebasconexion
